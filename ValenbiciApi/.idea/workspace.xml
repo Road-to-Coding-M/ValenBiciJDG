@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8b2f575-59e5-4598-b3fd-ac68677d1ad4" name="Changes" comment="Configure the pom.xml file with dependencies for ValenbiciAPI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/gva/edu/iesjuandegaray/bicis/ValenbiciAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/gva/edu/iesjuandegaray/bicis/ValenbiciAPI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Road-to-Coding-M&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Road-to-Coding-M/ValenBiciJDG&quot;,
+    &quot;accountId&quot;: &quot;88c351d3-58cd-49ae-8cd2-3c852f88f3e6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uhIGYtAKoaTVfLTrUNkp87e5Ez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ValenbiciAPI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/ValenBiciJDG",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/ValenbiciApi/src/main/java/es/gva/edu/iesjuandegaray/bicis/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b2f575-59e5-4598-b3fd-ac68677d1ad4" name="Changes" comment="" />
+      <created>1742694286218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742694286218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first version of ValenbiciAPI proyect">
+      <option name="closed" value="true" />
+      <created>1743359802962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743359802962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Configure the pom.xml file with dependencies for ValenbiciAPI">
+      <option name="closed" value="true" />
+      <created>1743364465067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743364465067</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first version of ValenbiciAPI proyect" />
+    <MESSAGE value="Configure the pom.xml file with dependencies for ValenbiciAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configure the pom.xml file with dependencies for ValenbiciAPI" />
+  </component>
+</project>
